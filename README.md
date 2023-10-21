@@ -4,6 +4,7 @@ Cristhian Braun, Igor Moro, Lucas Jacinto.
 ### Sketch Tela Inicial
 <img src="https://github.com/CBGMDias/TonyStork/assets/140767577/ebc5aefc-f6b5-403a-a587-7a091f7dd476" width="500" height="600">
 <img src="https://github.com/CBGMDias/TonyStork/assets/140767577/a877935e-4b8b-4019-bf7c-9c27a67ae99b)" width="500" height="600">
+
 Na Tela Inicial há botões que levarão a aba de Produtos, Estoque e Vendas, respectivamente. Além disso, haverá uma caixa de avisos.
 Haverá também uma aba que levará as seguintes funcionalidades: Menu, Conta, Produtos, Estoque, Vendas, Avisos e Configurações.
 
